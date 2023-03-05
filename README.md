@@ -9,8 +9,8 @@
 
 [![SHLPRN's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shlprn&theme=tokyo-night)](https://github.com/shlprn)
 
-<a href="https://github.com/shlprn/forumProj">
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=forumProj&theme=tokyonight" />
+<a href="https://github.com/shlprn/34th_FengRuCup_Backend">
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=34th_FengRuCup_Backend&theme=tokyonight" />
 </a>
 <a href="https://github.com/shlprn/forumProj">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=forumProj&theme=algolia" />
