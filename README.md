@@ -12,12 +12,12 @@
 <a href="https://github.com/shlprn/34th_FengRuCup_Backend">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=34th_FengRuCup_Backend&theme=tokyonight" />
 </a>
-<a href="https://github.com/shlprn/forumProj">
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=forumProj&theme=algolia" />
+<a href="https://github.com/shlprn/ForumProj_Backend">
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=ForumProj_Backend&theme=algolia" />
 </a>
-<a href="https://github.com/shlprn/forumProj">
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=forumProj&theme=prussian" />
+<a href="https://github.com/shlprn/ForumProj_Backend">
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=ForumProj_Backend&theme=prussian" />
 </a>
-<a href="https://github.com/shlprn/forumProj">
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=forumProj&theme=calm" />
+<a href="https://github.com/shlprn/ForumProj_Backend">
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=ForumProj_Backend&theme=calm" />
 </a>
