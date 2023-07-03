@@ -15,8 +15,8 @@
 <a href="https://github.com/shlprn/ForumProj_Backend">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=ForumProj_Backend&theme=algolia" />
 </a>
-<a href="https://github.com/shlprn/ForumProj_Backend">
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=ForumProj_Backend&theme=prussian" />
+<a href="https://github.com/shlprn/DingBot_Backend">
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=DingBot_Backend&theme=prussian" />
 </a>
 <a href="https://github.com/shlprn/ForumProj_Backend">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=ForumProj_Backend&theme=calm" />
