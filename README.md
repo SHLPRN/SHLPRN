@@ -7,16 +7,14 @@
 
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=shlprn&card_width=500)](https://github.com/shlprn)
 
-[![SHLPRN's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shlprn&theme=tokyo-night)](https://github.com/shlprn)
-
 <a href="https://github.com/shlprn/34th_FengRuCup_Backend">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=34th_FengRuCup_Backend&theme=tokyonight" />
 </a>
-<a href="https://github.com/shlprn/ForumProj_Backend">
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=ForumProj_Backend&theme=algolia" />
-</a>
 <a href="https://github.com/shlprn/DingBot_Backend">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=DingBot_Backend&theme=prussian" />
+</a>
+<a href="https://github.com/shlprn/ForumProj_Backend">
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=ForumProj_Backend&theme=algolia" />
 </a>
 <a href="https://github.com/shlprn/ForumProj_Backend">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=ForumProj_Backend&theme=calm" />
