@@ -7,6 +7,9 @@
 
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=shlprn&card_width=500)](https://github.com/shlprn)
 
+<a href="https://github.com/SHLPRN/PaaS_Backend">
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=PaaS_Backend&theme=tokyonight" />
+</a>
 <a href="https://github.com/SHLPRN/DingBot_Backend">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=DingBot_Backend&theme=tokyonight" />
 </a>
