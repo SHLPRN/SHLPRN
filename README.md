@@ -22,6 +22,3 @@
 <a href="https://github.com/SHLPRN/ForumProj_Backend">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=ForumProj_Backend&theme=tokyonight" />
 </a>
-<a href="https://github.com/SHLPRN/34th_FengRuCup_Backend">
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=shlprn&repo=34th_FengRuCup_Backend&theme=tokyonight" />
-</a>
